@@ -427,7 +427,7 @@ const selectedPalette = colorPalettes[currentPaletteName]
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "بلاگ من",
+    pageTitle: "active hunter",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
